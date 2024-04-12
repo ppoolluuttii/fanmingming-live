@@ -137,3 +137,18 @@ http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225757
 https://pi.0472.org/live/xjws.m3u8?token=240411
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视
 http://[2409:8087:5c00:10:5::74]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225752/index.m3u8
+
+#EXTINF:-1 tvg-id="抖音直播" tvg-name="和平精英" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",抖音直播
+http://192.168.2.1:35455/douyin/324034686283
+#EXTINF:-1 tvg-id="虎牙直播" tvg-name="端游吃鸡" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",虎牙直播
+http://192.168.2.1:35455/huya/52988
+#EXTINF:-1 tvg-id="虎牙直播" tvg-name="端游吃鸡" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",虎牙守望
+http://192.168.2.1:35455/huya/16852515
+#EXTINF:-1 tvg-id="bilibili" tvg-name="守望先锋" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",bilibili
+http://192.168.2.1:35455/bilibili/7395955?platform=web&line=first&quality=20000
+#EXTINF:-1 tvg-id="虎牙" tvg-name="跑跑" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",虎牙
+http://192.168.2.1:35455/huya/274061
+#EXTINF:-1 tvg-id="跑跑卡丁车" tvg-name="ow小青蛙" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",跑跑卡丁车
+http://192.168.2.1:35455/douyu/8647482
+#EXTINF:-1 tvg-id="斗鱼直播" tvg-name="守望先锋" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png" group-title="平台直播",斗鱼守望2
+http://192.168.2.1:35455/douyu/666199
