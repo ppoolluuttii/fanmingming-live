@@ -9,9 +9,7 @@ http://[2409:8087:5c00:10:5::71]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225916
 http://[2409:8087:5c00:10:5::73]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:5c00:10:5::81]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226274/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:5c00:10:5::71]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225998/index.m3u8
@@ -31,7 +29,6 @@ http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225739
 http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226276/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://[2409:8087:5c00:10:5::143]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:5c00:10:5::73]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225901/index.m3u8
@@ -45,11 +42,9 @@ http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122576
 https://tv.cry33.com/ys4k.php?id=4k
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 https://tv.cry33.com/ys4k.php?id=8k
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 https://tv.cry33.com/ys4k.php?id=8k25
 #EXTINF:-1 tvg-id="CCTV16-4k" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 超高清
 https://tv.cry33.com/ys4k.php?id=16-4k
-#EXTINF:-1 tvg-id="CCTV16-4k" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 超高清
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226282/index.m3u8?servicetype=1
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰中文.png" group-title="卫视",凤凰中文
@@ -96,7 +91,6 @@ http://[2409:8087:5c00:10:5::96]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225666
 http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226289/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视
 http://[2409:8087:5c00:10:5::147]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225941/index.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="卫视",贵州卫视
 http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225770/index.m3u8
