@@ -138,10 +138,12 @@ http://[2409:8087:5c00:10:5::92]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225710
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="NewTV",NewTV 黑莓电影
 http://[2409:8087:5c00:10:5::72]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225740/index.m3u8
 
-#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K"  tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",爱上4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K"  tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字频道",纯享4K
 http://[2409:8087:5c00:10:5::82]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
+http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 #EXTINF:-1 tvg-id="咪咕4K" tvg-name="咪咕4K"  tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="数字频道",咪咕4K
 http://[2409:8087:5c00:10:5::84]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
+http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225863/index.m3u8
 
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="平台直播",NewTV 哒啵赛事
 http://[2409:8087:5c00:10:5::88]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225760/index.m3u8
